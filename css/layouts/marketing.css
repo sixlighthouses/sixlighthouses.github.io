@@ -29,6 +29,10 @@ label {
     height: auto;
 }
 
+.a-link {
+    color: #34495e;
+}
+
 /*
  * -- LAYOUT STYLES --
  * These are some useful classes which I will need
